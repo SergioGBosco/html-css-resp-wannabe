@@ -147,7 +147,7 @@ img {
     }
 
     .row {
-        flex-direction: column;
+        display: block;
     }
 
     .why-us {
